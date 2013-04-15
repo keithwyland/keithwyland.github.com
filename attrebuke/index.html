@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>attrebuke bookmarklet</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js"></script>
+</head>
+<body>
+<div class="container">
+<header>
+<h1>att<span class="rbk">rebuke</span></h1>
+<p>A bookmarklet that rebukes those obsolete (in HTML5) attributes and spits out the rebuked HTML.</p>
+</header>
+<section>
+<p>Drag this to your bookmarks bar <a class="bookmarklet" href="javascript:(function(){var jsCode=document.createElement('script');jsCode.setAttribute('src', 'http://keithwyland.github.com/attrebuke/attrebuke.js');jsCode.setAttribute('type','text/javascript');document.body.appendChild(jsCode);}());">attrebuke</a></p>
+
+<p>This bookmarklet will give you a visual idea of how many obsolete attributes you'll need to remove from your page to make it line up with HTML5 standards.</p>
+
+<p><del>I'd really like for this bookmarklet, once it's done removing the attributes, to open a new tab/window with the &quot;rebuked&quot; source code.</del> (<< added!) And there's GOT to be a more efficient way of doing the javascript than how I've got it. Please <a href="https://github.com/keithwyland/attrebuke">contribute</a>!</p>
+</section>
+
+<footer>
+<p>Based on a code snippet posted at <a href="http://css-tricks.com/snippets/javascript/remove-inline-styles/">CSS-Tricks</a> which originally came from <a href="https://gist.github.com/262366">Nathan Smith</a>. Idea inspired by <a href="http://davatron5000.github.com/deCSS3/">deCSS3</a>. View source function grabbed from Rob Flaherty on <a href="http://www.ravelrumba.com/blog/ipad-view-source-bookmarklet/">RAVELRUMBA</a></p>
+</footer>
+</div>
+
+
+</body>
+</html>

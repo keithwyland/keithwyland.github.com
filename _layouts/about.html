@@ -1,0 +1,35 @@
+{% include head.html %}
+{% include header.html %}
+
+<div class="main-container">
+  <div class="main wrapper clearfix">
+
+    {{ content }}
+
+  </div> <!-- .main -->
+</div> <!-- .main-container -->
+
+{% include footer.html %}
+
+<script>
+$(document).ready(function () {
+    // Replace the value for var 'e' with your Treehouse Username
+    var e = "keithwyland",
+    t = "http://teamtreehouse.com/" + e + ".json",
+    n = $("#badges"),
+    r = [],
+    i = 0;
+    $.getJSON(t, function (e) {
+        var t = e.badges;
+        $.each(t, function (e, t) {
+            r += '<li><a href="' + t.url + '" target="_blank"><img src="' + t.icon_url + '" alt="' + t.name + '" title="' + t.name + '"/></a></li>';
+            i++
+        });
+        n.append(r);
+        var count = i;
+        $("#badgesCount").append('<h3>I&lsquo;ve earned <span class="count">' + count + '</span> badges at <a href="http://teamtreehouse.com/keithwyland">Treehouse</a>!</h3>');
+    })
+});
+</script>
+
+{% include foot.html %}
