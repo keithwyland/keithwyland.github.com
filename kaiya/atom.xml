@@ -4,7 +4,7 @@
   <title><![CDATA[Kaiya's Achievements]]></title>
   <link href="http://testerrr.github.com/atom.xml" rel="self"/>
   <link href="http://testerrr.github.com/"/>
-  <updated>2013-04-21T07:41:14-05:00</updated>
+  <updated>2013-04-21T07:52:13-05:00</updated>
   <id>http://testerrr.github.com/</id>
   <author>
     <name><![CDATA[Keith Wyland]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rollover TuTummy to Back]]></title>
+    <link href="http://testerrr.github.com/blog/2013/04/21/rollover-tutummy-to-back/"/>
+    <updated>2013-04-21T07:47:00-05:00</updated>
+    <id>http://testerrr.github.com/blog/2013/04/21/rollover-tutummy-to-back</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://testerrr.github.com/images/patches/rollover_tummytoback.svg" title="rollover from tummy to back patch" ></p>
+
+<p>Stuff here.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Roll Over: Back to Tummy]]></title>
