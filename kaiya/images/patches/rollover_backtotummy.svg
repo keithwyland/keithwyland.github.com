@@ -1,0 +1,11 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle fill="#f08ab7" stroke-width="8" cx="75.000005" cy="75.000005" r="70" id="svg_2" stroke="#a34e74" stroke-dasharray="2,2"/>
+  <path id="svg_3" d="m75.004639,35.244827c21.949036,0.041672 39.711151,17.803833 39.752869,39.752876c-0.041718,21.958313 -17.803833,39.725029 -39.752869,39.762146c-21.958298,-0.037117 -39.725075,-17.803833 -39.7621,-39.762146c0,-8.860191 2.913246,-16.974705 7.80883,-23.574718l8.258125,8.25346l10.44883,-39.039604l-39.030334,10.467342l8.753685,8.753681c-7.767136,9.596657 -12.449661,21.847229 -12.449661,35.139839c0.013878,30.911148 25.061447,55.958748 55.972626,55.968025c30.915833,-0.009277 55.963379,-25.056877 55.963379,-55.968025s-25.047546,-55.963402 -55.963379,-55.963402l0,16.210522l0,0.000004z" stroke-width="4" fill="#ffffff" stroke="#a34e74"/>
+  <text font-weight="bold" transform="matrix(1.25 0 0 1.13426 -40 -125.972)" xml:space="preserve" text-anchor="middle" font-family="Helvetica" font-size="24" id="svg_6" y="186.69388" x="74" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff" stroke="#a34e74">B</text>
+  <text font-weight="bold" transform="matrix(1.25 0 0 1.13426 -62.5 -114.954)" xml:space="preserve" text-anchor="middle" font-family="Helvetica" font-size="24" id="svg_7" y="176.69388" x="129" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff" stroke="#a34e74">T</text>
+  <path id="svg_9" d="m70.129013,82.186012l6.186981,-6.187019l-6.186981,-6.186989l3.535995,-3.536003l9.724014,9.722992l-9.724014,9.726013l-3.535995,-3.538994z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff" stroke="#a34e74"/>
+ </g>
+</svg>
