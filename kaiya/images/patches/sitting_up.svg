@@ -1,0 +1,10 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle fill="#99A3CC" stroke-width="8" cx="75.00001" cy="75.00001" r="70" id="svg_2" stroke="#535C80" stroke-dasharray="2,2"/>
+  <path id="svg_3" d="m98.41186,111.10226l-18.86402,-32.67273c-2.40797,-4.17091 -6.34833,-4.17091 -8.75631,0l-18.86401,32.67273c-2.40798,4.17094 -0.43782,7.58297 4.37813,7.58297l37.72806,0c4.81599,0 6.78616,-3.41203 4.37817,-7.58297l-0.00002,0z" stroke-width="5" fill="#ffffff" stroke="#535C80"/>
+  <path id="svg_3" d="m127.96563,61.80657l-104.92046,0l0,9.666l104.92046,0l0,-9.666z" stroke-width="5" fill="#ffffff" transform="rotate(2.98736 75.5054 66.6396)" stroke="#535C80"/>
+  <circle fill="#ffffff" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="85.5" cy="44.5" r="14.52776" id="svg_1" stroke="#535C80"/>
+ </g>
+</svg>
