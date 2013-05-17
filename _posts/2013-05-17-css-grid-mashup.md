@@ -40,4 +40,4 @@ Here, I'll embed the codepen of it.
 
 ##Conclusion
 
-So that's my CSS grid confession. Honestly, though, it's not intended for other's use. It's for me, and my teammates to test with and maybe build from. Plus, I just wanted to document what I did here on this 'ol blog. Check.
+So that's my CSS grid confession. Honestly, though, it's not intended for other's use. It's for me, and my teammates to test with and maybe build from. Plus, I just wanted to document what I did here on this 'ol blog. Done, check.
