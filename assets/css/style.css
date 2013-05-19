@@ -7,6 +7,8 @@ textarea {
 }
 
 body {
+    background-image: url(/assets/images/fabric_of_squares_gray.png);
+    background-size: 410px;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -217,11 +219,18 @@ nav a {
 }
 
 .entry {
+    background-color: rgba(255, 255, 255, 0.5);
     border: 1px solid #ccc;
     border-radius: 3px;
+    color: #999;
     margin: 0.5em 0;
     padding: 0 1em;
     position: relative;
+}
+
+.entry:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #666;
 }
 
 .entry__head {
