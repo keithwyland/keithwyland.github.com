@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS Grid Confession"
-description: ""
+description: "I may have done the apparently unforgivable as a front-end developer. I made my own CSS grid... kind of."
 ---
 I may have done the apparently [unforgivable](http://hugogiraudel.com/2013/03/04/css-grids/) as a front-end developer. I made my own CSS grid... kind of. I'll explain.
 
@@ -37,6 +37,7 @@ Here, I'll embed the codepen of it.
 <pre class="codepen" data-height="400" data-type="result" data-href="FfqGo" data-user="keithwyland" data-safe="true"><code></code><a href="http://codepen.io/keithwyland/pen/FfqGo">Check out this Pen!</a></pre>
 <script async src="http://codepen.io/assets/embed/ei.js"></script>
 
+And if you dig around on codepen, you could find the responsive version I'm tinkering with, too.
 
 ##Conclusion
 

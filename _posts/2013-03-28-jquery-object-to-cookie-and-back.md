@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jQuery Object to Cookie and Back"
-description: ""
+description: "I needed to store a session cookie for use by other pages, and I wanted to use an object with key : value pairs to initially store all of the data, and then read it back to an object."
 ---
 
 I was working on a little web app that has multiple screens that show or hide on one web page, and javascript very temporarily stores small amounts of data entered in form fields by the user. Kind of like a quiz with results at the end.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extensions"
-description: ""
+description: "Zen Coding, Emmet.io, and Dreamweaver extensions."
 ---
 
 Last year sometime I came across [Zen Coding](https://code.google.com/p/zen-coding/), a set of plugins for high-speed HTML and CSS coding. I may have heard of it earlier than that, but it was sometime last year that I realized there was a Dreamweaver extension available on the Google Code repository for Zen Coding.
