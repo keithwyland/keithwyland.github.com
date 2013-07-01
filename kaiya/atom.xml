@@ -4,7 +4,7 @@
   <title><![CDATA[Kaiya's Achievements]]></title>
   <link href="http://testerrr.github.com/atom.xml" rel="self"/>
   <link href="http://testerrr.github.com/"/>
-  <updated>2013-04-30T21:01:24-05:00</updated>
+  <updated>2013-06-30T21:29:28-05:00</updated>
   <id>http://testerrr.github.com/</id>
   <author>
     <name><![CDATA[Keith Wyland]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Virus]]></title>
+    <link href="http://testerrr.github.com/blog/2013/06/30/first-virus/"/>
+    <updated>2013-06-30T21:15:00-05:00</updated>
+    <id>http://testerrr.github.com/blog/2013/06/30/first-virus</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://testerrr.github.com/images/patches/virus.svg" title="bacteriaphage" ></p>
+
+<p>Kaiya got her first illness, a cold along with pinkeye. She woke up a week ago with her eye glued shut. Cutest little sad eyes! Then she began caughing and lovingly passing on the virus to her parents. It&#8217;s been a rough one, too. No fevers, but lots of caughing, sore throats, runny noses, and stuffy heads.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sitting Up]]></title>
