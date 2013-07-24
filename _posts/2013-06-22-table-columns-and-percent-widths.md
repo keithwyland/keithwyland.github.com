@@ -26,6 +26,6 @@ However, this width was causing the table to appear to be expanding the entire w
 
 Instead of repeat everything in this post, I'll just embed the pen below. Hope it's useful information for someone! I know I enjoyed learning it!
 
-<p data-height="365" data-theme-id="0" data-slug-hash="plAIt" data-user="keithwyland" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/plAIt'>Test Case: table column % widths</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a></p>
+<p data-height="396" data-theme-id="2" data-slug-hash="plAIt" data-user="keithwyland" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/plAIt'>Test Case: table column % widths</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a></p>
 <script async src="http://codepen.io/assets/embed/ei.js"></script>
 

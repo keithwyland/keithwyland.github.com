@@ -34,7 +34,7 @@ So, late one night this week, I made a [mashup of these two approaches](http://c
 
 Here, I'll embed the codepen of it.
 
-<pre class="codepen" data-height="400" data-type="result" data-href="FfqGo" data-user="keithwyland" data-safe="true"><code></code><a href="http://codepen.io/keithwyland/pen/FfqGo">Check out this Pen!</a></pre>
+<p data-height="396" data-theme-id="2" data-slug-hash="FfqGo" data-user="keithwyland" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/FfqGo'>Grids Mashup</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a></p>
 <script async src="http://codepen.io/assets/embed/ei.js"></script>
 
 And if you dig around on codepen, you could find the responsive version I'm tinkering with, too.
