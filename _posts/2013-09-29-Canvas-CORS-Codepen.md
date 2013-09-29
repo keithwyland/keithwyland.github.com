@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 description: drawImage. toDataURL. FAIL. And then...
 title: Canvas. CORS. Codepen.
