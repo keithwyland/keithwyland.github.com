@@ -54,7 +54,7 @@ Apparently, when you pull in a resource from an external domain, or cross-domain
 But, I couldn't leave it there. I wanted to figure out how to get around the tainted canvas if I ever did have a real use case for doing so. I found [this short article on MDN](https://developer.mozilla.org/en-US/docs/HTML/CORS_Enabled_Image) that described exactly the problem I was having and offered a solution. The domain that serves the image files must also serve the proper CORS headers. Basically, the CORS header has to specify that the domain that is using the image is OK to use it.
 
 ## Try, try again
-Codepen PRO has asset hosting, but I don't have Codepen PRO (yet). So I tweeted them to find out if their assets serve the proper headers. They do! And they forked the pen I sent them, and I forked it back to add in the crossOrigin javascript bits from that MDN article. Success! Embedded below is the final codepen testing that this actually works. Enjoy!
+Codepen PRO has asset hosting, but I <del datetime="2013-10-29">don't</del> didn't have Codepen PRO. So I tweeted them to find out if their assets serve the proper headers. They do! And they forked the pen I sent them, and I forked it back to add in the crossOrigin javascript bits from that MDN article. Success! Embedded below is the final codepen testing that this actually works. Enjoy!
 
 <p data-height="400" data-theme-id="2" data-slug-hash="umova" data-user="keithwyland" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/umova'>Canvas toDataURL with CrossOrigin</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a></p>
 <script async src="http://codepen.io/assets/embed/ei.js"></script>
