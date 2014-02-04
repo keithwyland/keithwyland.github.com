@@ -2,11 +2,10 @@
 layout: post
 description: a (incomplete) list of css selectors with code and examples
 title: CSS Selectors
+head: <style>h2 { margin-top: 1.5em; }</style>
 ---
 
-<style>
-h2 { margin-top: 1.5em; }
-</style>
+
 
 ## Universal
 <p data-height="400" data-theme-id="4079" data-slug-hash="ChqtE" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/ChqtE'>1: Universal Selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
