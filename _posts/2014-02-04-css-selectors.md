@@ -2,7 +2,10 @@
 layout: post
 description: a (incomplete) list of css selectors with code and examples
 title: CSS Selectors
-head: h2 { margin-top: 1.5em; }
+head: |
+  h2 { 
+    margin-top: 1.5em; 
+  }
 ---
 
 
