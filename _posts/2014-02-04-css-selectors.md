@@ -20,3 +20,35 @@ title: CSS Selectors
 ## Class
 <p data-height="400" data-theme-id="4079" data-slug-hash="sfmiA" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/sfmiA'>4: Class selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Descendant
+<p data-height="400" data-theme-id="4079" data-slug-hash="yEtgo" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/yEtgo'>5: Descendant selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Pseudo-class (basic)
+<p data-height="400" data-theme-id="4079" data-slug-hash="zqkmG" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/zqkmG'>6: Pseudo-class (basic) selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Child
+<p data-height="400" data-theme-id="4079" data-slug-hash="insFz" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/insFz'>7: Child selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## General Sibling
+<p data-height="400" data-theme-id="4079" data-slug-hash="Huqaw" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/Huqaw'>8: General Sibling selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Attribute (basic)
+<p data-height="400" data-theme-id="4079" data-slug-hash="AIprb" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/AIprb'>9: Attribute (basic) selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Attribute Contains
+<p data-height="400" data-theme-id="4079" data-slug-hash="Eqotd" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/Eqotd'>10: Attribute Contains selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Attribute Begins With
+<p data-height="400" data-theme-id="4079" data-slug-hash="jxIyi" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/jxIyi'>11: Attribute Begins With selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
+
+## Attribute Ends With
+<p data-height="400" data-theme-id="4079" data-slug-hash="eFbqE" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/eFbqE'>12: Attribute Ends With selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
