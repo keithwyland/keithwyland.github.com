@@ -1,4 +1,7 @@
 {% include head.html %}
+  {% if page.head %}
+    {{ page.head }}
+  {% endif %}
 {% include header.html %}
 
 <div class="main-container">
