@@ -76,5 +76,5 @@ head: |
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ## :nth-child([an+b])
-<p data-height="298" data-theme-id="4079" data-slug-hash="aEqJu" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/aEqJu'>:nth-child([an+b]) selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="400" data-theme-id="4079" data-slug-hash="aEqJu" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/aEqJu'>:nth-child([an+b]) selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
