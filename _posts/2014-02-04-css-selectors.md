@@ -43,6 +43,10 @@ head: |
 <p data-height="400" data-theme-id="4079" data-slug-hash="Huqaw" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/Huqaw'>8: General Sibling selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
 
+## Adjacent Sibling
+<p data-height="400" data-theme-id="4079" data-slug-hash="xCoab" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/xCoab'>13: Adjacent Sibling selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
+
 ## Attribute (basic)
 <p data-height="400" data-theme-id="4079" data-slug-hash="AIprb" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/keithwyland/pen/AIprb'>9: Attribute (basic) selector</a> by Keith Wyland (<a href='http://codepen.io/keithwyland'>@keithwyland</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js?rad=banana"></script>
