@@ -293,7 +293,7 @@ nav a {
 
 @media (max-width: 600px) {
 
-    .feature-message object {
+    .feature-message img {
         float: none !important;
     }
 }
