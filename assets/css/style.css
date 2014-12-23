@@ -283,19 +283,20 @@ nav a {
 
 
 
-
-
-
-
-
-
-
-
-
+.feature-message {
+    font-style: italic;
+}
 
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+
+@media (max-width: 600px) {
+
+    .feature-message object {
+        float: none !important;
+    }
+}
 
 @media only screen and (min-width: 480px) {
 
