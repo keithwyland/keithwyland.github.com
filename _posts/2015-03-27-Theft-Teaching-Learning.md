@@ -1,7 +1,7 @@
 ---
 layout: post
 description: An opportunity to practice what I say I believe.
-title: Theft, Teaching, sand Learning
+title: Theft, Teaching, and Learning
 ---
 
 
