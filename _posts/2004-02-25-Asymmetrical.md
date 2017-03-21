@@ -19,6 +19,6 @@ has passed,
 the figures only read
 to the nearest whole month.
 Are you sure it's only been
-two weeks?  
+two weeks?
 
 -Keith Wyland
