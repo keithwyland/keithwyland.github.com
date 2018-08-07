@@ -42,6 +42,9 @@
             text-align: center;
             max-width: 700px;
             margin: 0 auto;
+            position: relative;
+            z-index: 2;
+            mix-blend-mode: difference;
         }
 
         .list-links {
@@ -58,6 +61,380 @@
             padding: 01em;
         }
 
+.box-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+  -webkit-animation: y 7s linear infinite alternate;
+          animation: y 7s linear infinite alternate;
+}
+
+.box > div {
+  border-radius: 50%;
+  position: absolute;
+  -webkit-animation: x 13s linear infinite alternate;
+          animation: x 13s linear infinite alternate;
+  width: 1px;
+  height: 1px;
+}
+
+.box:nth-child(1) {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
+}
+
+.box:nth-child(1) > div {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
+  background: #87baeb;
+  box-shadow: 0 0 30px 20px #87b5eb;
+  opacity: 0.96;
+}
+
+.box:nth-child(2) {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+.box:nth-child(2) > div {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+  background: #87a6eb;
+  box-shadow: 0 0 30px 20px #879ceb;
+  opacity: 0.92;
+}
+
+.box:nth-child(3) {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s;
+}
+
+.box:nth-child(3) > div {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s;
+  background: #8792eb;
+  box-shadow: 0 0 30px 20px #8b87eb;
+  opacity: 0.88;
+}
+
+.box:nth-child(4) {
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s;
+}
+
+.box:nth-child(4) > div {
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s;
+  background: #9087eb;
+  box-shadow: 0 0 30px 20px #a487eb;
+  opacity: 0.84;
+}
+
+.box:nth-child(5) {
+  -webkit-animation-delay: 0.5s;
+          animation-delay: 0.5s;
+}
+
+.box:nth-child(5) > div {
+  -webkit-animation-delay: 0.5s;
+          animation-delay: 0.5s;
+  background: #a487eb;
+  box-shadow: 0 0 30px 20px #bd87eb;
+  opacity: 0.8;
+}
+
+.box:nth-child(6) {
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s;
+}
+
+.box:nth-child(6) > div {
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s;
+  background: #b887eb;
+  box-shadow: 0 0 30px 20px #d687eb;
+  opacity: 0.76;
+}
+
+.box:nth-child(7) {
+  -webkit-animation-delay: 0.7s;
+          animation-delay: 0.7s;
+}
+
+.box:nth-child(7) > div {
+  -webkit-animation-delay: 0.7s;
+          animation-delay: 0.7s;
+  background: #cc87eb;
+  box-shadow: 0 0 30px 20px #eb87e7;
+  opacity: 0.72;
+}
+
+.box:nth-child(8) {
+  -webkit-animation-delay: 0.8s;
+          animation-delay: 0.8s;
+}
+
+.box:nth-child(8) > div {
+  -webkit-animation-delay: 0.8s;
+          animation-delay: 0.8s;
+  background: #e087eb;
+  box-shadow: 0 0 30px 20px #eb87ce;
+  opacity: 0.68;
+}
+
+.box:nth-child(9) {
+  -webkit-animation-delay: 0.9s;
+          animation-delay: 0.9s;
+}
+
+.box:nth-child(9) > div {
+  -webkit-animation-delay: 0.9s;
+          animation-delay: 0.9s;
+  background: #eb87e2;
+  box-shadow: 0 0 30px 20px #eb87b5;
+  opacity: 0.64;
+}
+
+.box:nth-child(10) {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.box:nth-child(10) > div {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  background: #eb87ce;
+  box-shadow: 0 0 30px 20px #eb879c;
+  opacity: 0.6;
+}
+
+.box:nth-child(11) {
+  -webkit-animation-delay: 1.1s;
+          animation-delay: 1.1s;
+}
+
+.box:nth-child(11) > div {
+  -webkit-animation-delay: 1.1s;
+          animation-delay: 1.1s;
+  background: #eb87ba;
+  box-shadow: 0 0 30px 20px #eb8b87;
+  opacity: 0.56;
+}
+
+.box:nth-child(12) {
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
+}
+
+.box:nth-child(12) > div {
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
+  background: #eb87a6;
+  box-shadow: 0 0 30px 20px #eba487;
+  opacity: 0.52;
+}
+
+.box:nth-child(13) {
+  -webkit-animation-delay: 1.3s;
+          animation-delay: 1.3s;
+}
+
+.box:nth-child(13) > div {
+  -webkit-animation-delay: 1.3s;
+          animation-delay: 1.3s;
+  background: #eb8792;
+  box-shadow: 0 0 30px 20px #ebbd87;
+  opacity: 0.48;
+}
+
+.box:nth-child(14) {
+  -webkit-animation-delay: 1.4s;
+          animation-delay: 1.4s;
+}
+
+.box:nth-child(14) > div {
+  -webkit-animation-delay: 1.4s;
+          animation-delay: 1.4s;
+  background: #eb9087;
+  box-shadow: 0 0 30px 20px #ebd687;
+  opacity: 0.44;
+}
+
+.box:nth-child(15) {
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
+
+.box:nth-child(15) > div {
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+  background: #eba487;
+  box-shadow: 0 0 30px 20px #e7eb87;
+  opacity: 0.4;
+}
+
+.box:nth-child(16) {
+  -webkit-animation-delay: 1.6s;
+          animation-delay: 1.6s;
+}
+
+.box:nth-child(16) > div {
+  -webkit-animation-delay: 1.6s;
+          animation-delay: 1.6s;
+  background: #ebb887;
+  box-shadow: 0 0 30px 20px #ceeb87;
+  opacity: 0.36;
+}
+
+.box:nth-child(17) {
+  -webkit-animation-delay: 1.7s;
+          animation-delay: 1.7s;
+}
+
+.box:nth-child(17) > div {
+  -webkit-animation-delay: 1.7s;
+          animation-delay: 1.7s;
+  background: #ebcc87;
+  box-shadow: 0 0 30px 20px #b5eb87;
+  opacity: 0.32;
+}
+
+.box:nth-child(18) {
+  -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
+}
+
+.box:nth-child(18) > div {
+  -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
+  background: #ebe087;
+  box-shadow: 0 0 30px 20px #9ceb87;
+  opacity: 0.28;
+}
+
+.box:nth-child(19) {
+  -webkit-animation-delay: 1.9s;
+          animation-delay: 1.9s;
+}
+
+.box:nth-child(19) > div {
+  -webkit-animation-delay: 1.9s;
+          animation-delay: 1.9s;
+  background: #e2eb87;
+  box-shadow: 0 0 30px 20px #87eb8b;
+  opacity: 0.24;
+}
+
+.box:nth-child(20) {
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+
+.box:nth-child(20) > div {
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  background: #ceeb87;
+  box-shadow: 0 0 30px 20px #87eba4;
+  opacity: 0.2;
+}
+
+.box:nth-child(21) {
+  -webkit-animation-delay: 2.1s;
+          animation-delay: 2.1s;
+}
+
+.box:nth-child(21) > div {
+  -webkit-animation-delay: 2.1s;
+          animation-delay: 2.1s;
+  background: #baeb87;
+  box-shadow: 0 0 30px 20px #87ebbd;
+  opacity: 0.16;
+}
+
+.box:nth-child(22) {
+  -webkit-animation-delay: 2.2s;
+          animation-delay: 2.2s;
+}
+
+.box:nth-child(22) > div {
+  -webkit-animation-delay: 2.2s;
+          animation-delay: 2.2s;
+  background: #a6eb87;
+  box-shadow: 0 0 30px 20px #87ebd6;
+  opacity: 0.12;
+}
+
+.box:nth-child(23) {
+  -webkit-animation-delay: 2.3s;
+          animation-delay: 2.3s;
+}
+
+.box:nth-child(23) > div {
+  -webkit-animation-delay: 2.3s;
+          animation-delay: 2.3s;
+  background: #92eb87;
+  box-shadow: 0 0 30px 20px #87e7eb;
+  opacity: 0.08;
+}
+
+.box:nth-child(24) {
+  -webkit-animation-delay: 2.4s;
+          animation-delay: 2.4s;
+}
+
+.box:nth-child(24) > div {
+  -webkit-animation-delay: 2.4s;
+          animation-delay: 2.4s;
+  background: #87eb90;
+  box-shadow: 0 0 30px 20px skyblue;
+  opacity: 0.04;
+}
+
+.box:nth-child(25) {
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
+}
+
+.box:nth-child(25) > div {
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
+  background: #87eba4;
+  box-shadow: 0 0 30px 20px #87b5eb;
+  opacity: 0;
+}
+
+@-webkit-keyframes x {
+  100% {
+    -webkit-transform: translateX(calc(100vw - 1px));
+            transform: translateX(calc(100vw - 1px));
+  }
+}
+
+@keyframes x {
+  100% {
+    -webkit-transform: translateX(calc(100vw - 1px));
+            transform: translateX(calc(100vw - 1px));
+  }
+}
+@-webkit-keyframes y {
+  100% {
+    -webkit-transform: translateY(calc(100vh - 1px));
+            transform: translateY(calc(100vh - 1px));
+  }
+}
+@keyframes y {
+  100% {
+    -webkit-transform: translateY(calc(100vh - 1px));
+            transform: translateY(calc(100vh - 1px));
+  }
+}
+
+
 
     </style>
 </head>
@@ -73,6 +450,84 @@
             </ul>   
         </div>
         
+    </div>
+    <div class="box-wrap">
+            <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  <div class='box'>
+                    <div></div>
+                  </div>
+                  
     </div>
 </body>
 </html>
