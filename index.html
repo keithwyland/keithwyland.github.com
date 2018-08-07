@@ -12,12 +12,27 @@
         }
         
         body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background: #333;
+            color: hotpink;
+            font-family: monospace;
+        }
+
+        .wrap {
             display: grid;
             justify-content: center;
             align-items: center;
             height: 100%;
-            margin: 0;
-            padding: 0;
+        }
+
+        a {
+            color: royalblue;
+        }
+
+        h1 {
+            text-transform: uppercase;
         }
 
 
@@ -25,13 +40,16 @@
 </head>
 <body>
     <div class="wrap"> 
-        <h1 class="page-title">Keith Wyland</h1>
-        <ul class="list-links">
-            <li><a href="https://codepen.io/keithwyland/">Codepen</a></li>
-            <li><a href="https://www.instagram.com/keith.geek/">Instagram</a></li>
-            <li><a href="https://twitter.com/keithwyland">Twitter</a></li>
-            <li><a href="https://github.com/keithwyland">Github</a></li>
-        </ul>   
+        <div class="content">
+            <h1 class="page-title">Keith Wyland</h1>
+            <ul class="list-links">
+                <li><a href="https://codepen.io/keithwyland/">Codepen</a></li>
+                <li><a href="https://www.instagram.com/keith.geek/">Instagram</a></li>
+                <li><a href="https://twitter.com/keithwyland">Twitter</a></li>
+                <li><a href="https://github.com/keithwyland">Github</a></li>
+            </ul>   
+        </div>
+        
     </div>
 </body>
 </html>
